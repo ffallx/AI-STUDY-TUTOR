@@ -1,0 +1,11 @@
+#Ambienti virtuali 
+venv/
+.venv/
+env/
+
+#Var d'ambiente e credenziali segrete
+.env
+
+#File temporanei e cache compilata di python
+__pycache__/
+*.pyc
